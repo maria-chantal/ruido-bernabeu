@@ -1,0 +1,33 @@
+{
+"asociacion_concierto_turismo": [
+	{
+		"ID" : 7,
+		"Concierto" : "CONKG",
+		"Turismo" : "2024/07-JUL"
+	},
+	{
+		"ID" : 8,
+		"Concierto" : "CONDK",
+		"Turismo" : "2024/06-JUN"
+	},
+	{
+		"ID" : 9,
+		"Concierto" : "CONTS",
+		"Turismo" : "2024/05-MAY"
+	},
+	{
+		"ID" : 10,
+		"Concierto" : "CONGNR",
+		"Turismo" : "2023/06-JUN"
+	},
+	{
+		"ID" : 11,
+		"Concierto" : "CONRS",
+		"Turismo" : "2022/06-JUN"
+	},
+	{
+		"ID" : 12,
+		"Concierto" : "CONES",
+		"Turismo" : "2019/06-JUN"
+	}
+]}

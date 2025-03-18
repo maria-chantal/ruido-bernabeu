@@ -1,0 +1,51 @@
+{
+"concierto": [
+	{
+		"ID_concierto" : "CONDK",
+		"Fecha" : "2024-06-08",
+		"Artista" : "Duki",
+		"Aforo" : 40000,
+		"CiudadId_Ciudad" : "C001",
+		"Recinto" : "Bernabeu"
+	},
+	{
+		"ID_concierto" : "CONES",
+		"Fecha" : "2019-06-11",
+		"Artista" : "Ed Sheeran",
+		"Aforo" : 55000,
+		"CiudadId_Ciudad" : "C001",
+		"Recinto" : "Civitas"
+	},
+	{
+		"ID_concierto" : "CONGNR",
+		"Fecha" : "2023-06-09",
+		"Artista" : "Guns N Roses",
+		"Aforo" : 35000,
+		"CiudadId_Ciudad" : "C001",
+		"Recinto" : "Civitas"
+	},
+	{
+		"ID_concierto" : "CONKG",
+		"Fecha" : "2024-07-20",
+		"Artista" : "KarolG",
+		"Aforo" : 40000,
+		"CiudadId_Ciudad" : "C001",
+		"Recinto" : "Bernabeu"
+	},
+	{
+		"ID_concierto" : "CONRS",
+		"Fecha" : "2022-06-01",
+		"Artista" : "Rolling Stones",
+		"Aforo" : 55000,
+		"CiudadId_Ciudad" : "C001",
+		"Recinto" : "Civitas"
+	},
+	{
+		"ID_concierto" : "CONTS",
+		"Fecha" : "2024-05-29",
+		"Artista" : "Taylor Swift",
+		"Aforo" : 65000,
+		"CiudadId_Ciudad" : "C001",
+		"Recinto" : "Bernabeu"
+	}
+]}

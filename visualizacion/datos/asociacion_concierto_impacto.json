@@ -1,0 +1,33 @@
+{
+"asociacion_concierto_impacto": [
+	{
+		"ID" : 7,
+		"Concierto" : "CONES",
+		"Impacto" : "2019/06-JUN"
+	},
+	{
+		"ID" : 8,
+		"Concierto" : "CONRS",
+		"Impacto" : "2022/06-JUN"
+	},
+	{
+		"ID" : 9,
+		"Concierto" : "CONGNR",
+		"Impacto" : "2023/06-JUN"
+	},
+	{
+		"ID" : 10,
+		"Concierto" : "CONTS",
+		"Impacto" : "2024/05-MAY"
+	},
+	{
+		"ID" : 11,
+		"Concierto" : "CONDK",
+		"Impacto" : "2024/06-JUN"
+	},
+	{
+		"ID" : 12,
+		"Concierto" : "CONKG",
+		"Impacto" : "2024/07-JUL"
+	}
+]}

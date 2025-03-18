@@ -1,0 +1,8 @@
+{
+"ciudad": [
+	{
+		"Id_Ciudad" : "C001",
+		"Población" : 3277000000,
+		"ConciertoID_concierto" : "CON001"
+	}
+]}

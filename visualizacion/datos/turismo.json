@@ -1,0 +1,651 @@
+{
+"turismo": [
+	{
+		"ID_turismo" : "2019/01-ENE",
+		"Turistas_Internacionales" : 4195641,
+		"Gasto_Medio" : 1115.13,
+		"Reservas_Hoteles" : 5251560.0,
+		"Pernotación_Hoteles" : 1.55062E7,
+		"Apartamentos" : 552504.0,
+		"Pernoctación_Apartamentos" : 3895090.0
+	},
+	{
+		"ID_turismo" : "2019/02-FEB",
+		"Turistas_Internacionales" : 8576146,
+		"Gasto_Medio" : 1089.31,
+		"Reservas_Hoteles" : 1.12629E7,
+		"Pernotación_Hoteles" : 3.20956E7,
+		"Apartamentos" : 1180720.0,
+		"Pernoctación_Apartamentos" : 7755750.0
+	},
+	{
+		"ID_turismo" : "2019/03-MAR",
+		"Turistas_Internacionales" : 21371757,
+		"Gasto_Medio" : 1058.57,
+		"Reservas_Hoteles" : 2.79362E7,
+		"Pernotación_Hoteles" : 8.04255E7,
+		"Apartamentos" : 2920340.0,
+		"Pernoctación_Apartamentos" : 1.70918E7
+	},
+	{
+		"ID_turismo" : "2019/04-ABR",
+		"Turistas_Internacionales" : 21371757,
+		"Gasto_Medio" : 1058.57,
+		"Reservas_Hoteles" : 2.79362E7,
+		"Pernotación_Hoteles" : 8.04255E7,
+		"Apartamentos" : 2920340.0,
+		"Pernoctación_Apartamentos" : 1.70918E7
+	},
+	{
+		"ID_turismo" : "2019/05-MAY",
+		"Turistas_Internacionales" : 29290961,
+		"Gasto_Medio" : 1052.37,
+		"Reservas_Hoteles" : 3.84461E7,
+		"Pernotación_Hoteles" : 1.12331E8,
+		"Apartamentos" : 3991690.0,
+		"Pernoctación_Apartamentos" : 2.24162E7
+	},
+	{
+		"ID_turismo" : "2019/06-JUN",
+		"Turistas_Internacionales" : 38124854,
+		"Gasto_Medio" : 1059.72,
+		"Reservas_Hoteles" : 4.98179E7,
+		"Pernotación_Hoteles" : 1.49495E8,
+		"Apartamentos" : 5348610.0,
+		"Pernoctación_Apartamentos" : 2.94479E7
+	},
+	{
+		"ID_turismo" : "2019/07-JUL",
+		"Turistas_Internacionales" : 47998124,
+		"Gasto_Medio" : 1081.12,
+		"Reservas_Hoteles" : 6.19425E7,
+		"Pernotación_Hoteles" : 1.92694E8,
+		"Apartamentos" : 6967730.0,
+		"Pernoctación_Apartamentos" : 3.92046E7
+	},
+	{
+		"ID_turismo" : "2019/08-AGO",
+		"Turistas_Internacionales" : 58116490,
+		"Gasto_Medio" : 1090.58,
+		"Reservas_Hoteles" : 7.49706E7,
+		"Pernotación_Hoteles" : 2.39754E8,
+		"Apartamentos" : 8813290.0,
+		"Pernoctación_Apartamentos" : 5.08447E7
+	},
+	{
+		"ID_turismo" : "2019/09-SEP",
+		"Turistas_Internacionales" : 66961642,
+		"Gasto_Medio" : 1090.21,
+		"Reservas_Hoteles" : 8.60094E7,
+		"Pernotación_Hoteles" : 2.77326E8,
+		"Apartamentos" : 1.00994E7,
+		"Pernoctación_Apartamentos" : 5.81252E7
+	},
+	{
+		"ID_turismo" : "2019/10-OCT",
+		"Turistas_Internacionales" : 74549391,
+		"Gasto_Medio" : 1090.87,
+		"Reservas_Hoteles" : 9.5782E7,
+		"Pernotación_Hoteles" : 3.07689E8,
+		"Apartamentos" : 1.10866E7,
+		"Pernoctación_Apartamentos" : 6.34654E7
+	},
+	{
+		"ID_turismo" : "2019/11-NOV",
+		"Turistas_Internacionales" : 79204413,
+		"Gasto_Medio" : 1090.57,
+		"Reservas_Hoteles" : 1.02475E8,
+		"Pernotación_Hoteles" : 3.26029E8,
+		"Apartamentos" : 1.17636E7,
+		"Pernoctación_Apartamentos" : 6.73523E7
+	},
+	{
+		"ID_turismo" : "2019/12-DIC",
+		"Turistas_Internacionales" : 4133024,
+		"Gasto_Medio" : 1096.69,
+		"Reservas_Hoteles" : 5577620.0,
+		"Pernotación_Hoteles" : 1.59682E7,
+		"Apartamentos" : 581052.0,
+		"Pernoctación_Apartamentos" : 3878060.0
+	},
+	{
+		"ID_turismo" : "2020/01-ENE",
+		"Turistas_Internacionales" : 4133024,
+		"Gasto_Medio" : 1117.61,
+		"Reservas_Hoteles" : 5577620.0,
+		"Pernotación_Hoteles" : 1.59682E7,
+		"Apartamentos" : 581052.0,
+		"Pernoctación_Apartamentos" : 3878060.0
+	},
+	{
+		"ID_turismo" : "2020/02-FEB",
+		"Turistas_Internacionales" : 8560367,
+		"Gasto_Medio" : 1117.61,
+		"Reservas_Hoteles" : 1.2034E7,
+		"Pernotación_Hoteles" : 3.35824E7,
+		"Apartamentos" : 1263570.0,
+		"Pernoctación_Apartamentos" : 7831700.0
+	},
+	{
+		"ID_turismo" : "2020/03-MAR",
+		"Turistas_Internacionales" : 10557629,
+		"Gasto_Medio" : 1107.86,
+		"Reservas_Hoteles" : 1.46908E7,
+		"Pernotación_Hoteles" : 4.19552E7,
+		"Apartamentos" : 1460640.0,
+		"Pernoctación_Apartamentos" : 9471150.0
+	},
+	{
+		"ID_turismo" : "2020/04-ABR",
+		"Turistas_Internacionales" : 10557629,
+		"Gasto_Medio" : 830.89,
+		"Reservas_Hoteles" : 1.46908E7,
+		"Pernotación_Hoteles" : 4.19552E7,
+		"Apartamentos" : 1460640.0,
+		"Pernoctación_Apartamentos" : 9471150.0
+	},
+	{
+		"ID_turismo" : "2020/05-MAY",
+		"Turistas_Internacionales" : 10557629,
+		"Gasto_Medio" : 664.71,
+		"Reservas_Hoteles" : 1.47894E7,
+		"Pernotación_Hoteles" : 4.22264E7,
+		"Apartamentos" : 1475810.0,
+		"Pernoctación_Apartamentos" : 9612660.0
+	},
+	{
+		"ID_turismo" : "2020/06-JUN",
+		"Turistas_Internacionales" : 10761901,
+		"Gasto_Medio" : 663.17,
+		"Reservas_Hoteles" : 1.57343E7,
+		"Pernotación_Hoteles" : 4.40964E7,
+		"Apartamentos" : 1595290.0,
+		"Pernoctación_Apartamentos" : 1.0085E7
+	},
+	{
+		"ID_turismo" : "2020/07-JUL",
+		"Turistas_Internacionales" : 13226680,
+		"Gasto_Medio" : 710.9,
+		"Reservas_Hoteles" : 2.01421E7,
+		"Pernotación_Hoteles" : 5.58276E7,
+		"Apartamentos" : 2283990.0,
+		"Pernoctación_Apartamentos" : 1.35434E7
+	},
+	{
+		"ID_turismo" : "2020/08-AGO",
+		"Turistas_Internacionales" : 15667658,
+		"Gasto_Medio" : 747.85,
+		"Reservas_Hoteles" : 2.60663E7,
+		"Pernotación_Hoteles" : 7.27549E7,
+		"Apartamentos" : 3248440.0,
+		"Pernoctación_Apartamentos" : 1.89004E7
+	},
+	{
+		"ID_turismo" : "2020/09-SEP",
+		"Turistas_Internacionales" : 16806526,
+		"Gasto_Medio" : 767.66,
+		"Reservas_Hoteles" : 2.95796E7,
+		"Pernotación_Hoteles" : 8.0974E7,
+		"Apartamentos" : 3681550.0,
+		"Pernoctación_Apartamentos" : 2.09149E7
+	},
+	{
+		"ID_turismo" : "2020/10-OCT",
+		"Turistas_Internacionales" : 17827299,
+		"Gasto_Medio" : 817.11,
+		"Reservas_Hoteles" : 3.19863E7,
+		"Pernotación_Hoteles" : 8.61028E7,
+		"Apartamentos" : 3941740.0,
+		"Pernoctación_Apartamentos" : 2.20623E7
+	},
+	{
+		"ID_turismo" : "2020/11-NOV",
+		"Turistas_Internacionales" : 18284113,
+		"Gasto_Medio" : 817.11,
+		"Reservas_Hoteles" : 3.31713E7,
+		"Pernotación_Hoteles" : 8.8977E7,
+		"Apartamentos" : 4055390.0,
+		"Pernoctación_Apartamentos" : 2.28486E7
+	},
+	{
+		"ID_turismo" : "2020/12-DIC",
+		"Turistas_Internacionales" : 18933103,
+		"Gasto_Medio" : 817.11,
+		"Reservas_Hoteles" : 3.45891E7,
+		"Pernotación_Hoteles" : 9.2223E7,
+		"Apartamentos" : 4208500.0,
+		"Pernoctación_Apartamentos" : 2.3802E7
+	},
+	{
+		"ID_turismo" : "2021/01-ENE",
+		"Turistas_Internacionales" : 437973,
+		"Gasto_Medio" : 1044.43,
+		"Reservas_Hoteles" : 1124600.0,
+		"Pernotación_Hoteles" : 2459480.0,
+		"Apartamentos" : 112309.0,
+		"Pernoctación_Apartamentos" : 763133.0
+	},
+	{
+		"ID_turismo" : "2021/02-FEB",
+		"Turistas_Internacionales" : 722947,
+		"Gasto_Medio" : 1090.37,
+		"Reservas_Hoteles" : 2303840.0,
+		"Pernotación_Hoteles" : 4896440.0,
+		"Apartamentos" : 215040.0,
+		"Pernoctación_Apartamentos" : 1432180.0
+	},
+	{
+		"ID_turismo" : "2021/03-MAR",
+		"Turistas_Internacionales" : 1214373,
+		"Gasto_Medio" : 1095.83,
+		"Reservas_Hoteles" : 4074560.0,
+		"Pernotación_Hoteles" : 8485000.0,
+		"Apartamentos" : 381617.0,
+		"Pernoctación_Apartamentos" : 2314870.0
+	},
+	{
+		"ID_turismo" : "2021/04-ABR",
+		"Turistas_Internacionales" : 1843579,
+		"Gasto_Medio" : 1087.45,
+		"Reservas_Hoteles" : 6030280.0,
+		"Pernotación_Hoteles" : 1.26274E7,
+		"Apartamentos" : 593175.0,
+		"Pernoctación_Apartamentos" : 3329270.0
+	},
+	{
+		"ID_turismo" : "2021/05-MAY",
+		"Turistas_Internacionales" : 3206743,
+		"Gasto_Medio" : 1074.75,
+		"Reservas_Hoteles" : 9434400.0,
+		"Pernotación_Hoteles" : 1.99702E7,
+		"Apartamentos" : 945035.0,
+		"Pernoctación_Apartamentos" : 4764280.0
+	},
+	{
+		"ID_turismo" : "2021/06-JUN",
+		"Turistas_Internacionales" : 5423099,
+		"Gasto_Medio" : 1077.73,
+		"Reservas_Hoteles" : 1.51105E7,
+		"Pernotación_Hoteles" : 3.42298E7,
+		"Apartamentos" : 1616460.0,
+		"Pernoctación_Apartamentos" : 7610640.0
+	},
+	{
+		"ID_turismo" : "2021/07-JUL",
+		"Turistas_Internacionales" : 15018611,
+		"Gasto_Medio" : 1098.99,
+		"Reservas_Hoteles" : 3.40625E7,
+		"Pernotación_Hoteles" : 9.50412E7,
+		"Apartamentos" : 4424680.0,
+		"Pernoctación_Apartamentos" : 2.30772E7
+	},
+	{
+		"ID_turismo" : "2021/08-AGO",
+		"Turistas_Internacionales" : 15018611,
+		"Gasto_Medio" : 1098.99,
+		"Reservas_Hoteles" : 3.40625E7,
+		"Pernotación_Hoteles" : 9.50412E7,
+		"Apartamentos" : 4424680.0,
+		"Pernoctación_Apartamentos" : 2.30772E7
+	},
+	{
+		"ID_turismo" : "2021/09-SEP",
+		"Turistas_Internacionales" : 19722543,
+		"Gasto_Medio" : 1096.2,
+		"Reservas_Hoteles" : 4.23186E7,
+		"Pernotación_Hoteles" : 1.20721E8,
+		"Apartamentos" : 5394880.0,
+		"Pernoctación_Apartamentos" : 2.81621E7
+	},
+	{
+		"ID_turismo" : "2021/10-OCT",
+		"Turistas_Internacionales" : 24871364,
+		"Gasto_Medio" : 1097.59,
+		"Reservas_Hoteles" : 5.04502E7,
+		"Pernotación_Hoteles" : 1.44656E8,
+		"Apartamentos" : 6300520.0,
+		"Pernoctación_Apartamentos" : 3.25986E7
+	},
+	{
+		"ID_turismo" : "2021/11-NOV",
+		"Turistas_Internacionales" : 28233277,
+		"Gasto_Medio" : 1097.59,
+		"Reservas_Hoteles" : 5.58422E7,
+		"Pernotación_Hoteles" : 1.59587E8,
+		"Apartamentos" : 6889450.0,
+		"Pernoctación_Apartamentos" : 3.59635E7
+	},
+	{
+		"ID_turismo" : "2021/12-DIC",
+		"Turistas_Internacionales" : 31180802,
+		"Gasto_Medio" : 1106.11,
+		"Reservas_Hoteles" : 6.07241E7,
+		"Pernotación_Hoteles" : 1.72807E8,
+		"Apartamentos" : 7524940.0,
+		"Pernoctación_Apartamentos" : 3.92992E7
+	},
+	{
+		"ID_turismo" : "2022/01-ENE",
+		"Turistas_Internacionales" : 2501443,
+		"Gasto_Medio" : 1201.24,
+		"Reservas_Hoteles" : 3770580.0,
+		"Pernotación_Hoteles" : 1.05984E7,
+		"Apartamentos" : 482015.0,
+		"Pernoctación_Apartamentos" : 3005150.0
+	},
+	{
+		"ID_turismo" : "2022/02-FEB",
+		"Turistas_Internacionales" : 5680731,
+		"Gasto_Medio" : 1201.24,
+		"Reservas_Hoteles" : 8904540.0,
+		"Pernotación_Hoteles" : 2.42219E7,
+		"Apartamentos" : 1093630.0,
+		"Pernoctación_Apartamentos" : 6308380.0
+	},
+	{
+		"ID_turismo" : "2022/03-MAR",
+		"Turistas_Internacionales" : 9720263,
+		"Gasto_Medio" : 1219.81,
+		"Reservas_Hoteles" : 1.49659E7,
+		"Pernotación_Hoteles" : 4.18546E7,
+		"Apartamentos" : 1737380.0,
+		"Pernoctación_Apartamentos" : 1.00089E7
+	},
+	{
+		"ID_turismo" : "2022/04-ABR",
+		"Turistas_Internacionales" : 15826580,
+		"Gasto_Medio" : 1197.76,
+		"Reservas_Hoteles" : 2.36558E7,
+		"Pernotación_Hoteles" : 6.70522E7,
+		"Apartamentos" : 2745020.0,
+		"Pernoctación_Apartamentos" : 1.4571E7
+	},
+	{
+		"ID_turismo" : "2022/05-MAY",
+		"Turistas_Internacionales" : 22814932,
+		"Gasto_Medio" : 1188.51,
+		"Reservas_Hoteles" : 3.35764E7,
+		"Pernotación_Hoteles" : 9.68376E7,
+		"Apartamentos" : 3843680.0,
+		"Pernoctación_Apartamentos" : 1.96555E7
+	},
+	{
+		"ID_turismo" : "2022/06-JUN",
+		"Turistas_Internacionales" : 30313089,
+		"Gasto_Medio" : 1191.04,
+		"Reservas_Hoteles" : 4.45669E7,
+		"Pernotación_Hoteles" : 1.31949E8,
+		"Apartamentos" : 5212260.0,
+		"Pernoctación_Apartamentos" : 2.63704E7
+	},
+	{
+		"ID_turismo" : "2022/07-JUL",
+		"Turistas_Internacionales" : 48253143,
+		"Gasto_Medio" : 1207.92,
+		"Reservas_Hoteles" : 6.97497E7,
+		"Pernotación_Hoteles" : 2.20211E8,
+		"Apartamentos" : 8837610.0,
+		"Pernoctación_Apartamentos" : 4.75733E7
+	},
+	{
+		"ID_turismo" : "2022/08-AGO",
+		"Turistas_Internacionales" : 48253143,
+		"Gasto_Medio" : 1216.3,
+		"Reservas_Hoteles" : 6.97497E7,
+		"Pernotación_Hoteles" : 2.20211E8,
+		"Apartamentos" : 8837610.0,
+		"Pernoctación_Apartamentos" : 4.75733E7
+	},
+	{
+		"ID_turismo" : "2022/09-SEP",
+		"Turistas_Internacionales" : 56020354,
+		"Gasto_Medio" : 1212.01,
+		"Reservas_Hoteles" : 8.08E7,
+		"Pernotación_Hoteles" : 2.56211E8,
+		"Apartamentos" : 1.01655E7,
+		"Pernoctación_Apartamentos" : 5.45271E7
+	},
+	{
+		"ID_turismo" : "2022/10-OCT",
+		"Turistas_Internacionales" : 63197338,
+		"Gasto_Medio" : 1206.62,
+		"Reservas_Hoteles" : 9.05433E7,
+		"Pernotación_Hoteles" : 2.86077E8,
+		"Apartamentos" : 1.11887E7,
+		"Pernoctación_Apartamentos" : 5.98954E7
+	},
+	{
+		"ID_turismo" : "2022/11-NOV",
+		"Turistas_Internacionales" : 67531989,
+		"Gasto_Medio" : 1209.8,
+		"Reservas_Hoteles" : 9.6828E7,
+		"Pernotación_Hoteles" : 3.03738E8,
+		"Apartamentos" : 1.18623E7,
+		"Pernoctación_Apartamentos" : 6.37032E7
+	},
+	{
+		"ID_turismo" : "2022/12-DIC",
+		"Turistas_Internacionales" : 71659281,
+		"Gasto_Medio" : 1214.76,
+		"Reservas_Hoteles" : 1.02883E8,
+		"Pernotación_Hoteles" : 3.20366E8,
+		"Apartamentos" : 1.26075E7,
+		"Pernoctación_Apartamentos" : 6.76846E7
+	},
+	{
+		"ID_turismo" : "2023/01-ENE",
+		"Turistas_Internacionales" : 4134995,
+		"Gasto_Medio" : 1261.66,
+		"Reservas_Hoteles" : 5367960.0,
+		"Pernotación_Hoteles" : 1.54725E7,
+		"Apartamentos" : 657539.0,
+		"Pernoctación_Apartamentos" : 3916420.0
+	},
+	{
+		"ID_turismo" : "2023/02-FEB",
+		"Turistas_Internacionales" : 8455660,
+		"Gasto_Medio" : 1251.58,
+		"Reservas_Hoteles" : 1.1335E7,
+		"Pernotación_Hoteles" : 3.2289E7,
+		"Apartamentos" : 1362840.0,
+		"Pernoctación_Apartamentos" : 7833260.0
+	},
+	{
+		"ID_turismo" : "2023/03-MAR",
+		"Turistas_Internacionales" : 13703001,
+		"Gasto_Medio" : 1257.97,
+		"Reservas_Hoteles" : 1.86964E7,
+		"Pernotación_Hoteles" : 5.28868E7,
+		"Apartamentos" : 2134760.0,
+		"Pernoctación_Apartamentos" : 1.19423E7
+	},
+	{
+		"ID_turismo" : "2023/04-ABR",
+		"Turistas_Internacionales" : 20931095,
+		"Gasto_Medio" : 1235.9,
+		"Reservas_Hoteles" : 2.85258E7,
+		"Pernotación_Hoteles" : 8.09335E7,
+		"Apartamentos" : 3282700.0,
+		"Pernoctación_Apartamentos" : 1.70431E7
+	},
+	{
+		"ID_turismo" : "2023/05-MAY",
+		"Turistas_Internacionales" : 29231479,
+		"Gasto_Medio" : 1224.05,
+		"Reservas_Hoteles" : 3.9106E7,
+		"Pernotación_Hoteles" : 1.13121E8,
+		"Apartamentos" : 4425430.0,
+		"Pernoctación_Apartamentos" : 2.24898E7
+	},
+	{
+		"ID_turismo" : "2023/06-JUN",
+		"Turistas_Internacionales" : 37538939,
+		"Gasto_Medio" : 1232.87,
+		"Reservas_Hoteles" : 5.06415E7,
+		"Pernotación_Hoteles" : 1.49376E8,
+		"Apartamentos" : 5781570.0,
+		"Pernoctación_Apartamentos" : 2.90292E7
+	},
+	{
+		"ID_turismo" : "2023/07-JUL",
+		"Turistas_Internacionales" : 47655855,
+		"Gasto_Medio" : 1252.75,
+		"Reservas_Hoteles" : 6.3322E7,
+		"Pernotación_Hoteles" : 1.92486E8,
+		"Apartamentos" : 7549340.0,
+		"Pernoctación_Apartamentos" : 3.85073E7
+	},
+	{
+		"ID_turismo" : "2023/08-AGO",
+		"Turistas_Internacionales" : 57842019,
+		"Gasto_Medio" : 1263.04,
+		"Reservas_Hoteles" : 7.65885E7,
+		"Pernotación_Hoteles" : 2.39181E8,
+		"Apartamentos" : 9413310.0,
+		"Pernoctación_Apartamentos" : 4.9378E7
+	},
+	{
+		"ID_turismo" : "2023/09-SEP",
+		"Turistas_Internacionales" : 66637444,
+		"Gasto_Medio" : 1264.11,
+		"Reservas_Hoteles" : 8.82164E7,
+		"Pernotación_Hoteles" : 2.77161E8,
+		"Apartamentos" : 1.07755E7,
+		"Pernoctación_Apartamentos" : 5.61753E7
+	},
+	{
+		"ID_turismo" : "2023/10-OCT",
+		"Turistas_Internacionales" : 74824467,
+		"Gasto_Medio" : 1263.53,
+		"Reservas_Hoteles" : 9.86068E7,
+		"Pernotación_Hoteles" : 3.09577E8,
+		"Apartamentos" : 1.18786E7,
+		"Pernoctación_Apartamentos" : 6.18602E7
+	},
+	{
+		"ID_turismo" : "2023/11-NOV",
+		"Turistas_Internacionales" : 79959965,
+		"Gasto_Medio" : 1274.19,
+		"Reservas_Hoteles" : 1.05406E8,
+		"Pernotación_Hoteles" : 3.28601E8,
+		"Apartamentos" : 1.26064E7,
+		"Pernoctación_Apartamentos" : 6.58998E7
+	},
+	{
+		"ID_turismo" : "2023/12-DIC",
+		"Turistas_Internacionales" : 85169050,
+		"Gasto_Medio" : 1274.19,
+		"Reservas_Hoteles" : 1.11992E8,
+		"Pernotación_Hoteles" : 3.46515E8,
+		"Apartamentos" : 1.34361E7,
+		"Pernoctación_Apartamentos" : 7.02118E7
+	},
+	{
+		"ID_turismo" : "2024/01-ENE",
+		"Turistas_Internacionales" : 4768171,
+		"Gasto_Medio" : 1373.61,
+		"Reservas_Hoteles" : 5628580.0,
+		"Pernotación_Hoteles" : 1.64478E7,
+		"Apartamentos" : 668990.0,
+		"Pernoctación_Apartamentos" : 4079170.0
+	},
+	{
+		"ID_turismo" : "2024/02-FEB",
+		"Turistas_Internacionales" : 16124997,
+		"Gasto_Medio" : 1360.2,
+		"Reservas_Hoteles" : 2.06051E7,
+		"Pernotación_Hoteles" : 5.95293E7,
+		"Apartamentos" : 2390260.0,
+		"Pernoctación_Apartamentos" : 1.31407E7
+	},
+	{
+		"ID_turismo" : "2024/03-MAR",
+		"Turistas_Internacionales" : 16124997,
+		"Gasto_Medio" : 1361.13,
+		"Reservas_Hoteles" : 2.06051E7,
+		"Pernotación_Hoteles" : 5.95293E7,
+		"Apartamentos" : 2390260.0,
+		"Pernoctación_Apartamentos" : 1.31407E7
+	},
+	{
+		"ID_turismo" : "2024/04-ABR",
+		"Turistas_Internacionales" : 23956092,
+		"Gasto_Medio" : 1326.21,
+		"Reservas_Hoteles" : 2.99996E7,
+		"Pernotación_Hoteles" : 8.66722E7,
+		"Apartamentos" : 3359980.0,
+		"Pernoctación_Apartamentos" : 1.76941E7
+	},
+	{
+		"ID_turismo" : "2024/05-MAY",
+		"Turistas_Internacionales" : 33212538,
+		"Gasto_Medio" : 1313.49,
+		"Reservas_Hoteles" : 4.17763E7,
+		"Pernotación_Hoteles" : 1.22416E8,
+		"Apartamentos" : 4694180.0,
+		"Pernoctación_Apartamentos" : 2.33613E7
+	},
+	{
+		"ID_turismo" : "2024/06-JUN",
+		"Turistas_Internacionales" : 42525988,
+		"Gasto_Medio" : 1316.0,
+		"Reservas_Hoteles" : 5.36814E7,
+		"Pernotación_Hoteles" : 1.60642E8,
+		"Apartamentos" : 6185160.0,
+		"Pernoctación_Apartamentos" : 3.02961E7
+	},
+	{
+		"ID_turismo" : "2024/07-JUL",
+		"Turistas_Internacionales" : 53377160,
+		"Gasto_Medio" : 1332.52,
+		"Reservas_Hoteles" : 6.63846E7,
+		"Pernotación_Hoteles" : 2.0468E8,
+		"Apartamentos" : 7935090.0,
+		"Pernoctación_Apartamentos" : 3.95932E7
+	},
+	{
+		"ID_turismo" : "2024/08-AGO",
+		"Turistas_Internacionales" : 64307909,
+		"Gasto_Medio" : 1341.64,
+		"Reservas_Hoteles" : 7.99707E7,
+		"Pernotación_Hoteles" : 2.52576E8,
+		"Apartamentos" : 9884630.0,
+		"Pernoctación_Apartamentos" : 5.06847E7
+	},
+	{
+		"ID_turismo" : "2024/09-SEP",
+		"Turistas_Internacionales" : 73903045,
+		"Gasto_Medio" : 1338.65,
+		"Reservas_Hoteles" : 9.17921E7,
+		"Pernotación_Hoteles" : 2.91617E8,
+		"Apartamentos" : 1.13045E7,
+		"Pernoctación_Apartamentos" : 5.77215E7
+	},
+	{
+		"ID_turismo" : "2024/10-OCT",
+		"Turistas_Internacionales" : 82868356,
+		"Gasto_Medio" : 1337.49,
+		"Reservas_Hoteles" : 1.02566E8,
+		"Pernotación_Hoteles" : 3.2556E8,
+		"Apartamentos" : 1.24383E7,
+		"Pernoctación_Apartamentos" : 6.34154E7
+	},
+	{
+		"ID_turismo" : "2024/11-NOV",
+		"Turistas_Internacionales" : 88533560,
+		"Gasto_Medio" : 1339.61,
+		"Reservas_Hoteles" : 1.09738E8,
+		"Pernotación_Hoteles" : 3.45615E8,
+		"Apartamentos" : 1.32428E7,
+		"Pernoctación_Apartamentos" : 6.7594E7
+	},
+	{
+		"ID_turismo" : "2024/12-DIC",
+		"Turistas_Internacionales" : 93799505,
+		"Gasto_Medio" : 1348.07,
+		"Reservas_Hoteles" : 1.16291E8,
+		"Pernotación_Hoteles" : 3.63648E8,
+		"Apartamentos" : 1.40632E7,
+		"Pernoctación_Apartamentos" : 7.17286E7
+	}
+]}

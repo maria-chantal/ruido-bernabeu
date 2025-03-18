@@ -1,0 +1,363 @@
+{
+"impacto_urbano": [
+	{
+		"ID_Impacto" : "2019/01-ENE",
+		"Nivel_Ruido" : 62.3,
+		"Nivel_Contaminacion" : 56.0
+	},
+	{
+		"ID_Impacto" : "2019/02-FEB",
+		"Nivel_Ruido" : 62.5,
+		"Nivel_Contaminacion" : 57.0
+	},
+	{
+		"ID_Impacto" : "2019/03-MAR",
+		"Nivel_Ruido" : 61.9,
+		"Nivel_Contaminacion" : 35.0
+	},
+	{
+		"ID_Impacto" : "2019/04-ABR",
+		"Nivel_Ruido" : 62.0,
+		"Nivel_Contaminacion" : 26.0
+	},
+	{
+		"ID_Impacto" : "2019/05-MAY",
+		"Nivel_Ruido" : 61.3,
+		"Nivel_Contaminacion" : 18.0
+	},
+	{
+		"ID_Impacto" : "2019/06-JUN",
+		"Nivel_Ruido" : 61.2,
+		"Nivel_Contaminacion" : 25.0
+	},
+	{
+		"ID_Impacto" : "2019/07-JUL",
+		"Nivel_Ruido" : 60.8,
+		"Nivel_Contaminacion" : 25.0
+	},
+	{
+		"ID_Impacto" : "2019/08-AGO",
+		"Nivel_Ruido" : 59.9,
+		"Nivel_Contaminacion" : 21.0
+	},
+	{
+		"ID_Impacto" : "2019/09-SEP",
+		"Nivel_Ruido" : 61.5,
+		"Nivel_Contaminacion" : 27.0
+	},
+	{
+		"ID_Impacto" : "2019/10-OCT",
+		"Nivel_Ruido" : 62.2,
+		"Nivel_Contaminacion" : 44.0
+	},
+	{
+		"ID_Impacto" : "2019/11-NOV",
+		"Nivel_Ruido" : 62.6,
+		"Nivel_Contaminacion" : 34.0
+	},
+	{
+		"ID_Impacto" : "2019/12-DIC",
+		"Nivel_Ruido" : 62.6,
+		"Nivel_Contaminacion" : 43.0
+	},
+	{
+		"ID_Impacto" : "2020/01-ENE",
+		"Nivel_Ruido" : 62.4,
+		"Nivel_Contaminacion" : 48.0
+	},
+	{
+		"ID_Impacto" : "2020/02-FEB",
+		"Nivel_Ruido" : 62.4,
+		"Nivel_Contaminacion" : 47.0
+	},
+	{
+		"ID_Impacto" : "2020/03-MAR",
+		"Nivel_Ruido" : 60.1,
+		"Nivel_Contaminacion" : 24.0
+	},
+	{
+		"ID_Impacto" : "2020/04-ABR",
+		"Nivel_Ruido" : 57.7,
+		"Nivel_Contaminacion" : 12.0
+	},
+	{
+		"ID_Impacto" : "2020/05-MAY",
+		"Nivel_Ruido" : 58.2,
+		"Nivel_Contaminacion" : 11.0
+	},
+	{
+		"ID_Impacto" : "2020/06-JUN",
+		"Nivel_Ruido" : 58.7,
+		"Nivel_Contaminacion" : 15.0
+	},
+	{
+		"ID_Impacto" : "2020/07-JUL",
+		"Nivel_Ruido" : 57.8,
+		"Nivel_Contaminacion" : 19.0
+	},
+	{
+		"ID_Impacto" : "2020/08-AGO",
+		"Nivel_Ruido" : 57.1,
+		"Nivel_Contaminacion" : 20.0
+	},
+	{
+		"ID_Impacto" : "2020/09-SEP",
+		"Nivel_Ruido" : 59.2,
+		"Nivel_Contaminacion" : 28.0
+	},
+	{
+		"ID_Impacto" : "2020/10-OCT",
+		"Nivel_Ruido" : 59.5,
+		"Nivel_Contaminacion" : 31.0
+	},
+	{
+		"ID_Impacto" : "2020/11-NOV",
+		"Nivel_Ruido" : 60.2,
+		"Nivel_Contaminacion" : 42.0
+	},
+	{
+		"ID_Impacto" : "2020/12-DIC",
+		"Nivel_Ruido" : 59.7,
+		"Nivel_Contaminacion" : 35.0
+	},
+	{
+		"ID_Impacto" : "2021/01-ENE",
+		"Nivel_Ruido" : 58.2,
+		"Nivel_Contaminacion" : 48.0
+	},
+	{
+		"ID_Impacto" : "2021/02-FEB",
+		"Nivel_Ruido" : 60.3,
+		"Nivel_Contaminacion" : 33.0
+	},
+	{
+		"ID_Impacto" : "2021/03-MAR",
+		"Nivel_Ruido" : 59.9,
+		"Nivel_Contaminacion" : 28.0
+	},
+	{
+		"ID_Impacto" : "2021/04-ABR",
+		"Nivel_Ruido" : 59.7,
+		"Nivel_Contaminacion" : 24.0
+	},
+	{
+		"ID_Impacto" : "2021/05-MAY",
+		"Nivel_Ruido" : 59.2,
+		"Nivel_Contaminacion" : 20.0
+	},
+	{
+		"ID_Impacto" : "2021/06-JUN",
+		"Nivel_Ruido" : 60.4,
+		"Nivel_Contaminacion" : 21.0
+	},
+	{
+		"ID_Impacto" : "2021/07-JUL",
+		"Nivel_Ruido" : 58.5,
+		"Nivel_Contaminacion" : 22.0
+	},
+	{
+		"ID_Impacto" : "2021/08-AGO",
+		"Nivel_Ruido" : 56.7,
+		"Nivel_Contaminacion" : 19.0
+	},
+	{
+		"ID_Impacto" : "2021/09-SEP",
+		"Nivel_Ruido" : 59.3,
+		"Nivel_Contaminacion" : 27.0
+	},
+	{
+		"ID_Impacto" : "2021/10-OCT",
+		"Nivel_Ruido" : 59.8,
+		"Nivel_Contaminacion" : 37.0
+	},
+	{
+		"ID_Impacto" : "2021/11-NOV",
+		"Nivel_Ruido" : 59.6,
+		"Nivel_Contaminacion" : 36.0
+	},
+	{
+		"ID_Impacto" : "2021/12-DIC",
+		"Nivel_Ruido" : 59.5,
+		"Nivel_Contaminacion" : 39.0
+	},
+	{
+		"ID_Impacto" : "2022/01-ENE",
+		"Nivel_Ruido" : 59.1,
+		"Nivel_Contaminacion" : 41.0
+	},
+	{
+		"ID_Impacto" : "2022/02-FEB",
+		"Nivel_Ruido" : 50.0,
+		"Nivel_Contaminacion" : 40.0
+	},
+	{
+		"ID_Impacto" : "2022/03-MAR",
+		"Nivel_Ruido" : 63.0,
+		"Nivel_Contaminacion" : 26.0
+	},
+	{
+		"ID_Impacto" : "2022/04-ABR",
+		"Nivel_Ruido" : 59.9,
+		"Nivel_Contaminacion" : 21.0
+	},
+	{
+		"ID_Impacto" : "2022/05-MAY",
+		"Nivel_Ruido" : 58.6,
+		"Nivel_Contaminacion" : 18.0
+	},
+	{
+		"ID_Impacto" : "2022/06-JUN",
+		"Nivel_Ruido" : 58.8,
+		"Nivel_Contaminacion" : 20.0
+	},
+	{
+		"ID_Impacto" : "2022/07-JUL",
+		"Nivel_Ruido" : 57.8,
+		"Nivel_Contaminacion" : 16.0
+	},
+	{
+		"ID_Impacto" : "2022/08-AGO",
+		"Nivel_Ruido" : 56.5,
+		"Nivel_Contaminacion" : 12.0
+	},
+	{
+		"ID_Impacto" : "2022/09-SEP",
+		"Nivel_Ruido" : 59.0,
+		"Nivel_Contaminacion" : 22.0
+	},
+	{
+		"ID_Impacto" : "2022/10-OCT",
+		"Nivel_Ruido" : 59.3,
+		"Nivel_Contaminacion" : 37.0
+	},
+	{
+		"ID_Impacto" : "2022/11-NOV",
+		"Nivel_Ruido" : 59.7,
+		"Nivel_Contaminacion" : 34.0
+	},
+	{
+		"ID_Impacto" : "2022/12-DIC",
+		"Nivel_Ruido" : 60.5,
+		"Nivel_Contaminacion" : 39.0
+	},
+	{
+		"ID_Impacto" : "2023/01-ENE",
+		"Nivel_Ruido" : 59.4,
+		"Nivel_Contaminacion" : 35.0
+	},
+	{
+		"ID_Impacto" : "2023/02-FEB",
+		"Nivel_Ruido" : 58.7,
+		"Nivel_Contaminacion" : 37.0
+	},
+	{
+		"ID_Impacto" : "2023/03-MAR",
+		"Nivel_Ruido" : 59.1,
+		"Nivel_Contaminacion" : 32.0
+	},
+	{
+		"ID_Impacto" : "2023/04-ABR",
+		"Nivel_Ruido" : 57.9,
+		"Nivel_Contaminacion" : 23.0
+	},
+	{
+		"ID_Impacto" : "2023/05-MAY",
+		"Nivel_Ruido" : 58.4,
+		"Nivel_Contaminacion" : 16.0
+	},
+	{
+		"ID_Impacto" : "2023/06-JUN",
+		"Nivel_Ruido" : 58.6,
+		"Nivel_Contaminacion" : 22.0
+	},
+	{
+		"ID_Impacto" : "2023/07-JUL",
+		"Nivel_Ruido" : 57.9,
+		"Nivel_Contaminacion" : 21.0
+	},
+	{
+		"ID_Impacto" : "2023/08-AGO",
+		"Nivel_Ruido" : 56.8,
+		"Nivel_Contaminacion" : 19.0
+	},
+	{
+		"ID_Impacto" : "2023/09-SEP",
+		"Nivel_Ruido" : 59.2,
+		"Nivel_Contaminacion" : 33.0
+	},
+	{
+		"ID_Impacto" : "2023/10-OCT",
+		"Nivel_Ruido" : 60.4,
+		"Nivel_Contaminacion" : 30.0
+	},
+	{
+		"ID_Impacto" : "2023/11-NOV",
+		"Nivel_Ruido" : 59.8,
+		"Nivel_Contaminacion" : 34.0
+	},
+	{
+		"ID_Impacto" : "2023/12-DIC",
+		"Nivel_Ruido" : 59.5,
+		"Nivel_Contaminacion" : 45.0
+	},
+	{
+		"ID_Impacto" : "2024/01-ENE",
+		"Nivel_Ruido" : 60.5,
+		"Nivel_Contaminacion" : 36.0
+	},
+	{
+		"ID_Impacto" : "2024/02-FEB",
+		"Nivel_Ruido" : 59.7,
+		"Nivel_Contaminacion" : 29.0
+	},
+	{
+		"ID_Impacto" : "2024/03-MAR",
+		"Nivel_Ruido" : 59.7,
+		"Nivel_Contaminacion" : 25.0
+	},
+	{
+		"ID_Impacto" : "2024/04-ABR",
+		"Nivel_Ruido" : 59.1,
+		"Nivel_Contaminacion" : 21.0
+	},
+	{
+		"ID_Impacto" : "2024/05-MAY",
+		"Nivel_Ruido" : 58.7,
+		"Nivel_Contaminacion" : 15.0
+	},
+	{
+		"ID_Impacto" : "2024/06-JUN",
+		"Nivel_Ruido" : 58.7,
+		"Nivel_Contaminacion" : 15.0
+	},
+	{
+		"ID_Impacto" : "2024/07-JUL",
+		"Nivel_Ruido" : 58.0,
+		"Nivel_Contaminacion" : 16.0
+	},
+	{
+		"ID_Impacto" : "2024/08-AGO",
+		"Nivel_Ruido" : 57.0,
+		"Nivel_Contaminacion" : 12.0
+	},
+	{
+		"ID_Impacto" : "2024/09-SEP",
+		"Nivel_Ruido" : 58.6,
+		"Nivel_Contaminacion" : 15.0
+	},
+	{
+		"ID_Impacto" : "2024/10-OCT",
+		"Nivel_Ruido" : 59.8,
+		"Nivel_Contaminacion" : 20.0
+	},
+	{
+		"ID_Impacto" : "2024/11-NOV",
+		"Nivel_Ruido" : 59.4,
+		"Nivel_Contaminacion" : 28.0
+	},
+	{
+		"ID_Impacto" : "2024/12-DIC",
+		"Nivel_Ruido" : 59.8,
+		"Nivel_Contaminacion" : 35.0
+	}
+]}

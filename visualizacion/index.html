@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visualización de Conciertos</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-sankey@0.12.3"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="introduccion">
+        <h1>Visualización de datos</h1>
+        <p>
+          ¿Realmente son tan perjudiciales los conciertos multitudinarios para
+          la capital española? Durante el pasado año 2024 se celebraron varios
+          conciertos a gran escala en el estadio Santiago Bernabéu, lo que trajo
+          una gran cantidad de quejas por parte de los vecinos de la zona. Estos
+          vecinos se quejaban del ruido, y hacían ver a la prensa que los
+          conciertos traían tráfico, contaminación y bloqueos en las calles.
+          Pero en su contra, todos estos conciertos también traen turismo,
+          nuevos turistas y hace que se potencien los viajes a la capital.
+        </p>
+        <p>
+          Para poder analizar esto, se ha creado una base de datos que recoge
+          los principales problemas asociados a estos conciertos: el transporte,
+          el impacto urbano y el turismo, con todo lo que ello conlleva. Se han
+          filtrado seis conciertos en la capital sucedidos entre 2019 y 2024,
+          tres de ellos en el Bernabéu, y otros tres en el Civitas
+          Metropolitano, para intentar comparar si realmente existe una
+          diferencia notable si cambiamos de estadio.
+        </p>
+        <p>
+          Los datos de contaminación se han extraído de la zona de Castellana
+          para intentar centrarlos en el Bernabéu. De esta forma, se podrá ver
+          si en fechas de conciertos en el Metropolitano cambian los niveles de
+          contaminación en la Castellana. Los niveles de contaminación del aire
+          se van a medir en dióxido de nitrógeno, que es uno de los
+          contaminantes más abundantes en el aire, y los niveles de ruido se va
+          a medir en LAeq, que equivaldría al ruido constante durante un tiempo
+          determinado.
+        </p>
+      </div>
+      <div class="turismo_contaminacion_viajeros">
+        <h1>Comparativa de impacto, turismo y transporte</h1>
+        <p>
+          Vamos a comenzar con un breve resumen de los principales datos
+          obtenidos: vamos a ver la diferencia de datos entre 2019 y 2024 de los
+          niveles de ruido y de contaminación del aire, comparándolos con el
+          nivel de turistas alojados en Madrid y también con los viajeros que
+          llegaron a la capital.
+        </p>
+        <div id="turismo_contaminacion_viajeros"></div>
+        <script src="/d3/turismo_contaminacion_viajeros.js"></script>
+        <p>
+          Viendo esta gráfica lo primero que chirría son los picos de bajada al
+          principio de cada año; es posible que debido a la normalización de los
+          datos estos valores se hayan visto alterados, pero tras una pequeña
+          revisión manual, es cierto que hay una bajada clave de turismo los
+          primeros meses del año. Durante mediados de 2020 la pandemia afectó
+          notablemente a todos estos valores, pero podemos ver cómo los niveles
+          de ruido no sufrieron una bajada significativa. Los niveles de
+          contaminación del aire son los que más varían sin patrón aparente a lo
+          largo del año.
+        </p>
+      </div>
+
+      <div class="contaminacion_gasto">
+        <h1>Comparativa de contaminación y gastos</h1>
+        <p>
+          Hagamos ahora una pequeña comparativa entre los niveles de ruido y
+          contaminación recogidos y el gasto medio por viajero recogido cada
+          mes. Esto podría ayudarnos a hacernos una idea de cómo afecta el
+          turismo visto de una forma más cercana.
+        </p>
+        <div id="contaminacion_gasto_lineas"></div>
+        <script src="/d3/contaminacion_gasto_lineas.js"></script>
+        <p>
+          Aparte de observar la evidente bajada de la pandemia en 2020, podemos
+          ver que el gasto medio por cada turista va subiendo de manera
+          progresiva, mientras que los niveles de contaminación acústica y del
+          aire se mantienen en sus medidas estándar.
+        </p>
+      </div>
+
+      <div class="mapa_calor_class">
+        <h1>Mapa calor conciertos vs contaminacion</h1>
+        <p>
+          Dado que este ruido es una de las mayores causas de queja, vamos
+          directamente a compararlo mirando detalladamente las fechas de
+          conciertos seleccionadas. Estos conciertos han sido seleccionados por
+          tener una gran cantidad de asistentes y ser multitudinarios. Estos
+          conciertos son: Ed Sheeran, en junio de 2019 en el Metropolitano;
+          Rolling Stones, en junio de 2022 en el Metropolitano; Guns N Roses, en
+          junio de 2023 en el Metropolitano; Taylor Swift, en mayo de 2024 en el
+          Bernabéu; Duki, en junio de 2024 en el Bernabéu y Karol G en julio de
+          2024 en el Bernabéu. Cabe mencionar que, como de 2020 a 2022 no se ha
+          seleccionado ningún concierto, se han eliminado esas fechas. Veamos
+          ahora la gráfica.
+        </p>
+        <div id="mapa_calor"></div>
+        <script src="/d3/mapa_calor_conciertos.js"></script>
+        <p style="margin-top: 4%">
+          A primera vista podemos observar de forma clara que las barras
+          marcadas como conciertos no suponen una diferencia de la norma en
+          cuanto a las fechas no señaladas. Sabiendo también que las tres
+          primeras fechas son del Metropolitano y las tres últimas del Bernabéu,
+          podemos confirmar que la zona de la Castellana no se ve radicalmente
+          contaminada debido a estos conciertos (es más, la contaminación del
+          aire es menor en los conciertos del Bernabéu, siendo más o menos todos
+          en junio)
+        </p>
+      </div>
+
+      <div class="turismo_stankey_class">
+        <h1>Stankey de turismo</h1>
+        <p>
+          Dado que contamos con los datos suficientes, vamos a hacer un pequeño
+          diagrama de Stankey para ver la distribución de los turistas durante
+          los meses de estos conciertos. De esta forma, partiendo del groso de
+          todos los turistas registrados, podremos ver la cantidad de reservas
+          de hotel y de apartamentos vacacionales (AirBnB, Booking…), así como
+          las pernoctaciones en cada una de estas estancias.
+        </p>
+        <div id="turismo_stankey"></div>
+        <script src="/d3/turismo_stankey.js"></script>
+        <p>
+          Lo que más nos llama la atención es la gran diferencia que hay entre
+          el número de reservas y la pernoctación de las mismas. Esto puede ser
+          entendible, dado que una sola reserva puede contener múltiples noches
+          de hospedaje. Con esto podemos observar que los turistas parecen
+          preferir los hoteles para pasar su estancia en Madrid, al menos en los
+          meses donde se celebran conciertos.
+        </p>
+      </div>
+
+      <div class="comparacion_bernabeu_class">
+        <h1>Comparacion conciertos</h1>
+        <p>
+          Los datos se han normalizado para poder trabajar en la gráfica, por lo
+          que es posible que los valores se vean algo alterados. Lo que podemos
+          sacar en conclusión es que a medida que se adentra el verano en
+          Madrid, los turistas no paran de llegar. Cabe la posibilidad de que
+          parte de estos turistas vengan directamente a los conciertos, pero al
+          coger los datos de todo el mes, no podemos tenerlo por seguro.
+        </p>
+        <div id="comparacion_bernabeu"></div>
+        <script src="/d3/comparacion_conciertos_bernabeu.js"></script>
+        <p>
+          Los datos se han normalizado para poder trabajar en la gráfica, por lo
+          que es posible que los valores se vean algo alterados. Lo que podemos
+          sacar en conclusión es que a medida que se adentra el verano en
+          Madrid, los turistas no paran de llegar. Cabe la posibilidad de que
+          parte de estos turistas vengan directamente a los conciertos, pero al
+          coger los datos de todo el mes, no podemos tenerlo por seguro.
+        </p>
+        <p>
+          Lo que podemos hacer es comparar, por ejemplo, todos los meses de mayo
+          para ver si el concierto de Taylor Swift atrajo más turistas sobre
+          estas fechas no tan frecuentadas debido a que no ha comenzado el
+          periodo de vacaciones.
+        </p>
+      </div>
+
+      <div class="turistas_mayo_class">
+        <h1>Comparacion turistas en el mes de mayo</h1>
+        <div id="turistas_mayo"></div>
+        <script src="/d3/turistas_mayo.js"></script>
+        <p>
+          Se puede entender el pico de descenso de 2020 debido a la pandemia,
+          pero el valor más bajo siendo 2021 es algo sorprendente. Aún así,
+          fijándonos en los datos que queremos contrastar, podemos ver que
+          realmente en mayo de 2024 hubo bastantes más turistas que en el resto
+          de años. Será por el concierto, ¿o simplemente porque Madrid se está
+          volviendo más acogedora en mayo? Es algo que habría que investigar más
+          a fondo, buscando datos diarios o semanales.
+        </p>
+        <p>
+          En conclusión, teniendo de nuevo en cuenta que todos los datos de
+          contaminación se han obtenido de la zona de la Castellana, se puede
+          ver que el ruido, la contaminación del aire y el turismo no están
+          gravemente afectados por los conciertos realizados en el Bernabéu.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
