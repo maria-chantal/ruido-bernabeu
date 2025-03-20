@@ -47,7 +47,7 @@ Promise.all([
 
       if (!fecha) {
         console.error("Fecha inválida encontrada:", fechaStr);
-        return null; // Filtraremos estos valores después
+        return null; 
       }
 
       return {
